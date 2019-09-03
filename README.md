@@ -1,1 +1,1 @@
-# addsolarwindsnode
+To Add Node In Solarwinds Using Python Script
